@@ -1,0 +1,25 @@
+.menu1 {
+    display:flex;
+    justify-content:center;
+    border: ridge 15px orange;
+    padding:10px;
+    margin:20px;
+}
+
+.item1 {
+    border: 9px inset blue; padding:19px;
+    background-color:blue;
+    margin:20px;
+}
+.item2 { border: 9px solid red;
+    padding:19px;
+    background-color:red;
+    margin:20px;
+    
+}
+.item3 { border: 9px outset green;
+    padding:19px;
+    background-color:green;
+    margin:20px;
+}
+body{ background-color:orange;}
